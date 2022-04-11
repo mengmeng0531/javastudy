@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/atmsystem/atmsystem.iml" filepath="$PROJECT_DIR$/atmsystem/atmsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javastudy.iml" filepath="$PROJECT_DIR$/javastudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new1/new1.iml" filepath="$PROJECT_DIR$/new1/new1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newjava/newjava.iml" filepath="$PROJECT_DIR$/newjava/newjava.iml" />
+    </modules>
+  </component>
+</project>
